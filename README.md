@@ -1,12 +1,12 @@
 <!-- GitHub 统计信息 - 并排显示 -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=906051999&show_icons=true&theme=swift"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=906051999"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=906051999&theme=transparent"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=906051999&theme=transparent"/>
 </div>
 
 <!-- 访问计数器 -->
 <div align="center">
-  <img src="https://img.shields.io/badge/AIuser-12100E?style=for-the-badge&logo=robot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mind Morbius-12100E?style=for-the-badge"/>
   <img src="https://komarev.com/ghpvc/?username=906051999&style=for-the-badge"/>
 </div>
 
